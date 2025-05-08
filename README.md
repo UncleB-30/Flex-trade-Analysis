@@ -4,11 +4,11 @@
 ### Project Title
 Enhancing E-Commerce Performance through Data-Driven UX Optimization
 
-### PROJECT SUMMARY
+### Project Summary 
 This project analyses user behavior within the FlexTrade e-commerce app to identify issues affecting user engagement and sales performance.
 Using data analytics, I provided actionable insights that led to significant improvements in app usability, customer satisfaction, and conversion rates.
 
-### BUSINESS PROBLEM
+### Business Problem
 **Despite high download and usage rates, FlexTrade experienced:**
 
 - High Bounce Rate: 45% of users left after minimal interaction
@@ -16,14 +16,14 @@ Using data analytics, I provided actionable insights that led to significant imp
 - Low Average Order Value: Below industry benchmarks
 - Intense Competition: In a saturated online shopping market
 
-### DATA SOURCE
+### Data Source
 For this project, data were retrieved from:
 - Bounce rates, session lengths, conversion funnel drop-offs
 - User Behaviour Logs: Number of page views, time spent, cart interactions
 - Feedback Dataset: User reviews, complaints, and suggestions
 - Order Value Records: Order frequency and spend amount per user
 
-### Key Findings of the project
+### Key Findings of the Project
 - A large proportion of users exited the app after minimal engagement amounted to a 45% Bounce Rate (<5 page views).
 - Users added items to their cart but exited before purchase. This amounted to 30% Cart Abandonment: 
 - The average customer spent less than the industry benchmark (Low AOV).
@@ -54,6 +54,7 @@ It also showcases my ability to:
 - Communicate insights to both technical and non-technical stakeholders
 
 **Skills Demonstrated for this project are:** 
+- Advanced Excel 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - User Segmentation
